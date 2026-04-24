@@ -1,0 +1,73 @@
+{
+  "defaults": {
+    "width": 1280,
+    "height": 640,
+    "avatar": "assets/avatar.png",
+    "footer": "by Lambda Biolab · Bioengineering everything since 2022"
+  },
+  "repos": [
+    {
+      "repo": "bentolab",
+      "title": "bentolab",
+      "subtitle": "Lambda Biolab · Infrastructure",
+      "tagline": "Modular lab automation, bento-boxed.",
+      "accent": "#14b8a6"
+    },
+    {
+      "repo": "biolab-runners",
+      "title": "biolab-runners",
+      "subtitle": "Lambda Biolab · CI Infrastructure",
+      "tagline": "Self-hosted runners for biolab projects.",
+      "accent": "#f97316"
+    },
+    {
+      "repo": "bioml-commons",
+      "title": "bioml-commons",
+      "subtitle": "Lambda Biolab · Shared Pipelines",
+      "tagline": "Shared tooling for computational drug discovery.",
+      "accent": "#22c55e"
+    },
+    {
+      "repo": "CellPlateVision-Prototype",
+      "title": "CellPlateVision",
+      "subtitle": "Prototype · Computer Vision",
+      "tagline": "Automated cell growth detection on Petri dishes.",
+      "accent": "#ec4899"
+    },
+    {
+      "repo": "dpette-usb-driver",
+      "title": "dpette-usb-driver",
+      "subtitle": "Lambda Biolab · Hardware",
+      "tagline": "Open USB driver for the dPette pipette.",
+      "accent": "#eab308"
+    },
+    {
+      "repo": "OralBiome-AMP",
+      "title": "OralBiome-AMP",
+      "subtitle": "Drug Discovery · AMP Pipeline",
+      "tagline": "Antimicrobial peptides for oral health.",
+      "accent": "#06b6d4"
+    },
+    {
+      "repo": "so101-biolab-automation",
+      "title": "so101-biolab-automation",
+      "subtitle": "Prototype · Lab Robotics",
+      "tagline": "Open lab robotics, from scratch.",
+      "accent": "#ef4444"
+    },
+    {
+      "repo": "UTI-project",
+      "title": "ALS II Inhibitor Pipeline",
+      "subtitle": "Drug Discovery · UPEC",
+      "tagline": "Novel inhibitors for uropathogenic E. coli.",
+      "accent": "#f59e0b"
+    },
+    {
+      "repo": "vastai-gpu-runner",
+      "title": "vastai-gpu-runner",
+      "subtitle": "Lambda Biolab · GPU Orchestration",
+      "tagline": "Cloud GPU batches for Vast.ai.",
+      "accent": "#8b5cf6"
+    }
+  ]
+}

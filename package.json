@@ -1,0 +1,13 @@
+{
+  "name": "@lambda-biolab/dotgithub",
+  "private": true,
+  "description": "Org-wide GitHub config for Lambda-Biolab: profile README, social preview generator.",
+  "type": "module",
+  "scripts": {
+    "generate:previews": "node scripts/generate-social-previews.mjs",
+    "generate:previews:siblings": "node scripts/generate-social-previews.mjs --write-to-siblings"
+  },
+  "dependencies": {
+    "sharp": "^0.34.0"
+  }
+}
