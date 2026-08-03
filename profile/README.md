@@ -16,6 +16,10 @@ Benches, reagents, and compute for scientists, students, and tinkerers at the in
 
 ## Get involved
 
-- Join **[Lambda Hack Basel](https://hack-basel.lambdabiolab.com/#register)** — May 16–17, 2026. Five tracks. Open source required.
+- **[Lambda Hack Basel](https://hack-basel.lambdabiolab.com/)** — held May 16–17, 2026. Future events will be announced on the event site.
 - Book bench time or visit → [lambconsulting.bio/lambda-biolab](https://www.lambconsulting.bio/lambda-biolab).
-- Open an issue or PR on any repo.
+## Collaboration note
+
+qte77 is a former collaborator and is no longer working with Lambda Biolab.
+References to qte77 elsewhere in our repositories are historical, attribution, or
+upstream references.
